@@ -20,7 +20,6 @@ public class exercicio4 {
             
             if (numero % 2 == 0) pares++;
             else impares++;
-            
             count++;
         } while(count < quantNumeros);
         System.out.println("Quantidade par: " + (pares));

@@ -14,7 +14,6 @@ public class exercicio3 {
             numero = scan.nextInt();
             soma += numero;
             if (numero > maior) maior = numero;
-
             cont += 1;
         } while(cont < 5);
 

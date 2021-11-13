@@ -15,7 +15,6 @@ public class exercicio6 {
 
         multiplicacao = multiplicacao * i;
 
-
         }
         System.out.println(multiplicacao);
     }

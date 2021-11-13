@@ -5,7 +5,6 @@ public class exercicio2 {
         Scanner scan = new Scanner(System.in);
 
         int nota;
-
         System.out.println("Nota: ");
         nota = scan.nextInt();
 

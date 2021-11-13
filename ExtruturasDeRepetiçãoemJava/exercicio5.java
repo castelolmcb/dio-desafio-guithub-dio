@@ -7,7 +7,6 @@ public class exercicio5 {
         System.out.println("Digite o numero da tabuada: ");
         int tabuada = scan.nextInt();
 
-
         System.out.println("Tabuada de " + tabuada );
         
         for ( int i = 1; i <= 10 ; i = i + 1) {
